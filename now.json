@@ -1,6 +1,6 @@
 {
   "name": "Nioce",
-  "alias": ["nioce"],
+  "alias": ["nioce", "noice"],
   "version": 2,
   "builds": [{ "src": "index.js", "use": "@now/node" }],
   "github": {
